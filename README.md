@@ -2,12 +2,12 @@
 
 
 ## Assignments
- <ol>
-     <li>Disarium Numbers : Print first 19 numbers [link](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/DisariumNumbersWk4) </li>
- </ol>
+ 
+ 1. [Disarium Numbers : Print first 19 numbers](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/DisariumNumbersWk4)
+ 
  
 ## Projects 
-<ol>
-    <li> Spring Security Demo </li>
-</ol>
+
+ 1. [Spring Security Demo](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/SecurityDemoWk4)
+
 
