@@ -24,7 +24,7 @@ public class SecurityConfig {
         UserDetails normalUser = User
                 .withUsername("user")
                 .password(passwordEncoder().encode("pass"))
-                .roles("NORMAL")
+                .roles("USER")
                 .build();
 
         UserDetails adminUser = User
