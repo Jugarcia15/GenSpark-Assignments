@@ -11,20 +11,20 @@ import java.util.List;
 @RequestMapping("/home")
 
 public class MyController {
-//    @GetMapping("/public")
-//    public String publicUser(){
-//        return "<HTML><H1>I am a PublicUser</H1></HTML>";
-//    }
-//
-//    @GetMapping("/admin")
-//    public String adminUser(){
-//        return "<HTML><H1>I am a Admin</H1></HTML>";
-//    }
-//
-//    @GetMapping("/normal")
-//    public String normalUser(){
-//        return "<HTML><H1>I am a normal user</H1></HTML>";
-//    }
+    @GetMapping("/public")
+    public String publicUser(){
+        return "<HTML><H1>I am a PublicUser</H1></HTML>";
+    }
+
+    @GetMapping("/admin")
+    public String adminUser(){
+        return "<HTML><H1>I am a Admin</H1></HTML>";
+    }
+
+    @GetMapping("/normal")
+    public String normalUser(){
+        return "<HTML><H1>I am a normal user</H1></HTML>";
+    }
     @Autowired
     private CourseService courseService;
 
