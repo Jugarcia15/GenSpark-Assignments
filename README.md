@@ -3,7 +3,8 @@
 
 ## Assignments
  1. [Spring FW Annotations](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week3/SpringFWAnno_Config) 
- 2. [Spring Security Demo](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/SecurityDemoWk4)
+ 2. [Spring FW XML](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week3/SpringFWXML)
+ 3. [Spring Security Demo](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/SecurityDemoWk4)
  
 ## Projects 
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave)
