@@ -14,5 +14,5 @@
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave)
 
 ## Miscellaneous
- 1. [Disarium Numbers : Print first 19 numbers](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/DisariumNumbersWk4) : Write a program to generate first 19 Disarium Numbers.
+ 1. [Disarium Numbers : Print first 19 numbers](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week4/FRQ/DisariumNumbersWk4) : Write a program to generate first 19 Disarium Numbers.
 
