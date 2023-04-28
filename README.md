@@ -12,7 +12,7 @@
  
 ## Projects 
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave) : Simple console text game, prompt user to choose 1 or 2, which decides ending of game. 
- 2. [Guess the Number]() : The computer will "think" of number from 1 to 20, and ask user to guess it. Then will tell user if number is too high or too low. User wins only if within six tries. 
+ 2. [Guess the Number](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Guess_The_Number/Guess_the_Number) : The computer will "think" of number from 1 to 20, and ask user to guess it. Then will tell user if number is too high or too low. User wins only if within six tries. 
  3. [Add Exceptions to Dragon Cave]() : Add try catch blocks everywhere input is recieved in Dragon Cave and Guess the Number Projects.
  4. Add Junit Testing to [Dragon Cave]() and [Guess the Number]() projects. : Add unit testing to projects
  5. [Hangman]() 
