@@ -1,0 +1,45 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: 'sam-demo-users
+
+  Sample SAM Template for sam-demo-users
+
+  '
+Globals:
+  Function:
+    Timeout: 20
+    Runtime: java11
+    Architectures:
+    - x86_64
+    MemorySize: 512
+Resources:
+  HelloWorldFunctionDemo:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: HelloWorldFunctionDemo
+      Handler: helloworld.App::handleRequest
+      Events:
+        HelloWorld:
+          Type: Api
+          Properties:
+            Path: /user
+            Method: any
+    Metadata:
+      SamResourceId: HelloWorldFunctionDemo
+Outputs:
+  HelloWorldApi:
+    Description: API Gateway endpoint URL for Prod stage for Hello World function
+    Value:
+      Fn::Sub: https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/hello/
+  HelloWorldFunction:
+    Description: Hello World Lambda Function ARN
+    Value:
+      Fn::GetAtt:
+      - HelloWorldFunctionDemo
+      - Arn
+  HelloWorldFunctionIamRole:
+    Description: Implicit IAM Role created for Hello World function
+    Value:
+      Fn::GetAtt:
+      - HelloWorldFunctionDemoRole
+      - Arn
