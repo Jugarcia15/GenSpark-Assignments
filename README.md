@@ -10,6 +10,7 @@
  6. [User Security Demo](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week5/SecurityDemo) : with customer userDetails
  7. [MySQL Assignment 1](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week6/MySQL_Assignment_1) : Recreate HR Schema consisting of Job_history, jobs, Departments, Regions, Countries, Locations, and Employees Table. Must use each and every DDL/DML command. 
  8. [AWS API Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week7/demo-app-user-api) : Uploaded a user handler app to AWS for practice.
+ 9. [Angular Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/my-blog) : Make the following components using Angular : Navbar, Form, Footer. Use Bootstrap.
  
 ## Projects 
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave) : Simple console text game, prompt user to choose 1 or 2, which decides ending of game. 
@@ -27,4 +28,5 @@
  2. [MySQL DDL/DML Practice Files](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week6/MySQL%20Practice) : Practice using DDL/DML commands and adding constraints. Practice for MySQL Assignment 1.
  3. [Simple RestAPI](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week8/FRQ) : Create a small example of a rest API controller using Spring Boot.
  4. [Debugging Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week8/Sample) : Examine the code and debug. 
+ 5. [Mock Wiki Page Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/MockWiki) : Create HTML/CSS files that mimic a wiki page. 
 
