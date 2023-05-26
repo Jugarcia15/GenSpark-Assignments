@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321a6339-3cfb-4dcc-9ceb-9c5f9a63211c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ProfileCard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="321a6339-3cfb-4dcc-9ceb-9c5f9a63211c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685111788970</updated>
-      <workItem from="1685111789974" duration="4518000" />
+      <workItem from="1685111789974" duration="4706000" />
     </task>
     <servers />
   </component>
