@@ -1,0 +1,45 @@
+<!--<nav>-->
+<!--  &lt;!&ndash; Add your navigation menu here &ndash;&gt;-->
+<!--  <nav>-->
+<!--    <a routerLink="/" routerLinkActive="active">Home</a>-->
+<!--    <a routerLink="/projects" routerLinkActive="active">Projects</a>-->
+<!--    <a routerLink="/skills" routerLinkActive="active">Skills</a>-->
+<!--    <a routerLink="/experience" routerLinkActive="active">Experience</a>-->
+<!--    <a routerLink="/education" routerLinkActive="active">Education</a>-->
+<!--    <a routerLink="/contact" routerLinkActive="active">Contact</a>-->
+<!--  </nav>-->
+
+<!--</nav>-->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" routerLink="/">My Portfolio</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/" routerLinkActive="active">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/projects" routerLinkActive="active">Projects</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/skills" routerLinkActive="active">Skills</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/experience" routerLinkActive="active">Experience</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/education" routerLinkActive="active">Education</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/contact" routerLinkActive="active">Contact</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<router-outlet></router-outlet>

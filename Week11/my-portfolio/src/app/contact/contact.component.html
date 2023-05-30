@@ -1,0 +1,32 @@
+<div class="container" class="skills-section">
+  <h2 class="section-title">Contact</h2>
+  <div class="row">
+
+    <div class="col-md-6">
+      <div class="contact-info">
+        <h3>Get in Touch</h3>
+        <p><i class="fas fa-map-marker-alt"></i> 123 Street, City, Country</p>
+        <p><i class="fas fa-phone-alt"></i> +1 123 456 7890</p>
+        <p><i class="fas fa-envelope"></i> example@example.com</p>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="contact-form">
+        <h3>Send a Message</h3>
+        <form  #contactForm="ngForm" (ngSubmit)="submitForm(contactForm)">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Your Name" required>
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Your Email" required>
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" placeholder="Your Message" rows="5" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Send</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

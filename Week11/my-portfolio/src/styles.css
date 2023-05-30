@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+/* Change navbar background color */
+.navbar {
+  background-color: #333;
+}
+
+/* Change navbar brand text color */
+.navbar-brand {
+  color: #fff;
+}
+
+/* Change active nav-link text color */
+.nav-link.active {
+  color: #fff;
+}
