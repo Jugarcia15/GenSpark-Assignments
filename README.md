@@ -13,7 +13,7 @@
  9. [AWS SAM Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week9/SAM) : Practice deploying SAM App
  10. [Angular Practice](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/my-blog) : Make the following components using Angular : Navbar, Form, Footer. Use Bootstrap.
  11. [Mock Profile Card](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week10/ProfileCard) : Make a mock profile card.
- 12. [Portfolio](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week11/my-portfolio) : Make a portfolio using Angular, HTML, CSS.
+ 12. [Portfolio](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week11/my-portfolio) : Make a portfolio using Angular, HTML, CSS. First version can be accessed via [link](txjuang.me)
  
 ## Projects 
  1. [Dragon Cave](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Dragon_Cave/DragonCave) : Simple console text game, prompt user to choose 1 or 2, which decides ending of game. 
