@@ -23,8 +23,7 @@
  5. [Hangman](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/Hangman/Hangman) 
  6. [Humans vs Goblins](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Projects/HumansVsGoblins/HumansVsGoblins) : Must have turn based movement, combat using math.random, grid game world with extra items such as inventory systems, mob drops, stat modifying equipment, map gen treasure chest after rounds of combat, and enemy pursues player.
  7. [Functional Hangman]() : Reimplement hangman
- 8. [Humans vs Goblins Redux]() : Add a GUI to HvG project, add unit testing and exception handling.
- 9. [Java Team Project]() : Project that follows SDLC. Seperate GitHub Repo. Planning phase - JavaFX or console application, Analyses Phase - Ascertain whether project can be completed by deadline. Design Phase - design what you will be building. Implementation Phase - coude out application with team. Add unit testing to project.
+ 8. [Humans vs Goblins Redux]() : Add a GUI to HvG project, add unit testing and exception handling..
 
 ## Miscellaneous
  1. [Disarium Numbers : Print first 19 numbers](https://github.com/Jugarcia15/GenSpark-Assignments/tree/main/Week4/FRQ/DisariumNumbersWk4) : Write a program to generate first 19 Disarium Numbers.
